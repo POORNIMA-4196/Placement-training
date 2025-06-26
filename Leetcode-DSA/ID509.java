@@ -1,5 +1,4 @@
 /*  ✅ Problem Title: Fibonacci Number
-    🔗 LeetCode Link: https://leetcode.com/problems/fibonacci-number/
     📄 One-line Description: Return the nth Fibonacci number using recursion (0-based indexing).
     
     💡 Approach: Simple recursion
